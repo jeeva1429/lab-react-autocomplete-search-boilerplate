@@ -1,0 +1,16 @@
+#main {
+    text-align: center;
+}
+#main input {
+    margin-top: 10vh;
+    width: 400px;
+    height: 24px;
+    border-radius: 16px;
+    border: 1;
+    outline: 0;
+    margin-right: 24px;
+
+}
+li {
+    list-style-type: none;
+}
